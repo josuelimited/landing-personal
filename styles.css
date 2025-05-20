@@ -1,13 +1,87 @@
 a{
-    color: rgb(174, 161, 187);
+    color: rgb(253, 252, 255);
+    margin: 19px;
 }
 body{
-    background-color: black;
+    background-color: rgb(10, 10, 10);
     
 }
 img{
     padding-left: 900px;
     padding-top: 420px;
     width: 100px;
+}
 
+video{
+    width:300px ;
+    height:300px ;
+}
+
+nav a{
+    text-decoration: none;
+    color: #cbe7ff;
+}
+
+
+
+.frente{
+     width: 1899px;
+     height: 100px;
+     background-color: rgba(119, 126, 129, 0.192);
+}
+.Contraseña{
+    color: aliceblue; 
+    margin-left: 120px;
+    font-style:inherit ;
+    border-radius: 20px 20px 20px 20px; 
+        width: 250px;
+    height: 30px;
+    margin: 20px;
+    margin-left: 40px;
+    background-color: rgb(249, 249, 255,0.8);
+}
+.Gmail{
+   color: aliceblue; 
+   margin-left: 140px;
+   border-radius: 20px 20px 20px 20px; 
+       width: 250px;
+    height: 30px;
+    margin: 20px;
+    margin-left: 40px;
+    background-color: rgb(249, 249, 255,0.8);
+}
+h1{
+    color: rgb(158, 210, 255 , 0.9);
+    margin: 70px;
+    font-style: italic;
+    font-size: 50px;  
+}
+.login{
+    margin-bottom: 35px;
+}
+
+.arriba{
+    color: aliceblue;
+    padding: 35px;
+    padding-left: 90px;
+    
+}
+.arriba a:hover
+{
+   color: rgb(29, 255, 255);
+}
+.arriba a {
+    margin: 130px;
+}
+.centrar{
+    margin-left: 800px;
+}
+.recomendacion {
+    background-color: azure;
+    width: 200px;
+    height: 30px;
+    border-radius: 20px 20px 20px 20px; 
+    margin: 10px;
+
+    
 }
